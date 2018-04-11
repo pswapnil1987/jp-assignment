@@ -1,0 +1,70 @@
+apple at 10p
+20 sales of apple at 10p each
+Add 20p apple
+20 sales of banana at 10p each
+banana at 10p
+20 sales of watermelon at 10p each
+cherry at 10p
+20 sales of orange at 10p each
+orange at 10p
+20 sales of pineapple at 10p each
+pineapple at 10p
+5 sales of mango at 5p each
+mango at 5p
+2 sales of grape at 15p each
+grape at 15p
+Watermelon at 20p
+25 sales of watermelon at 20p each
+apple at 10p
+Add 2p pineapple
+Add 3p banana
+Subtract 5p apple
+apple at 10p
+20 sales of apple at 10p each
+Add 20p apple
+apple at 10p
+20 sales of apple at 10p each
+Add 20p apple
+apple at 10p
+20 sales of banana at 10p each
+banana at 10p
+20 sales of watermelon at 10p each
+cherry at 10p
+20 sales of orange at 10p each
+orange at 10p
+20 sales of pineapple at 10p each
+pineapple at 10p
+5 sales of mango at 5p each
+apple at 10p
+20 sales of apple at 10p each
+Add 20p mango
+apple at 10p
+20 sales of banana at 10p each
+banana at 10p
+Add 5p pineapple
+Subtract 5p watermelon
+20 sales of watermelon at 10p each
+cherry at 10p
+20 sales of orange at 10p each
+orange at 10p
+20 sales of pineapple at 10p each
+pineapple at 10p
+5 sales of mango at 5p each
+apple at 10p
+20 sales of apple at 10p each
+Add 20p apple
+apple at 10p
+20 sales of apple at 10p each
+Add 20p apple
+apple at 10p
+20 sales of banana at 10p each
+banana at 10p
+20 sales of watermelon at 10p each
+cherry at 10p
+20 sales of orange at 10p each
+orange at 10p
+20 sales of pineapple at 10p each
+pineapple at 10p
+5 sales of mango at 5p each
+20 sales of apple at 10p each
+Add 20p apple
